@@ -7,7 +7,7 @@ class parimpar
         if ($a%2==0){
 return "par";
 }else{
-return "impar"
+return "impar";
 }
     }
 
